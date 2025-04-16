@@ -20,3 +20,6 @@ A web-based application for bidirectional data ingestion between **ClickHouse** 
 ```bash
 npm install
 npm run dev
+
+
+video link: **https://drive.google.com/file/d/1zvViOYXTDVq0TjCmfKskiF9bcOf_LelJ/view**
